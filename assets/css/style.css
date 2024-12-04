@@ -23,8 +23,13 @@ main img {
   width: 100%;
 }
 
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
   font-size: 4rem;
+  font-weight: 900 !important;
 }
 
 li, .btn {
@@ -58,6 +63,10 @@ header img {
 
 #btn3 {
   background-color: #4caf4f;
+}
+
+header img {
+  box-shadow: 0px 0px 55px 11px rgba(0, 0, 0, 0.1);
 }
 
 a {
