@@ -1,4 +1,4 @@
-$lilla: #BE92F1;
+$lilla: #be92f1;
 $white: white;
 $black: black;
 $bgViola: #630fc4;
@@ -17,28 +17,30 @@ header {
 }
 
 .hero {
-    p {
-        color: $lilla;
-    }
-    button {
-        color: $white;
-    }
+  p {
+    color: $lilla;
+  }
+  button {
+    color: $white;
+  }
 }
 
 #btn1 {
-    background-color: $btnBlu;
+  background-color: $btnBlu;
 }
 
 #btn2 {
-    background-color: $btnArancio;
+  background-color: $btnArancio;
 }
 
 #btn3 {
-    background-color: $btnVerde;
+  background-color: $btnVerde;
 }
 
 header {
-  img {
-    box-shadow: 0px 0px 55px 11px rgba(0,0,0,0.1);
+  .hero {
+    img {
+      box-shadow: 0px 10px 23px 7px rgba(0, 0, 0, 0.1);
+    }
   }
 }
