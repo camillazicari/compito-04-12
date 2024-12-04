@@ -20,6 +20,10 @@ h1 {
   font-size: 4rem;
 }
 
+li {
+  font-size: 0.7em;
+}
+
 header {
   background-color: #630fc4;
 }
@@ -28,7 +32,7 @@ header a {
 }
 
 .hero p {
-  color: white;
+  color: #BE92F1;
 }
 .hero button {
   color: white;
