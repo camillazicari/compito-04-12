@@ -23,13 +23,16 @@ main img {
   width: 100%;
 }
 
+h1 {
+  letter-spacing: -5px;
+}
+
 * {
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-  font-size: 4rem;
-  font-weight: 900 !important;
+  font-size: 4.5rem;
 }
 
 li, .btn {
