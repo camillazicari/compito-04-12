@@ -17,6 +17,7 @@ html, body {
 }
 
 main {
+  height: 40vh;
   margin-top: 6em;
 }
 main img {
