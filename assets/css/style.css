@@ -7,4 +7,34 @@ html, body {
   padding: 0;
 }
 
+header {
+  background-color: #630fc4;
+}
+header a {
+  color: white;
+}
+
+.hero p {
+  color: white;
+}
+.hero button {
+  color: white;
+}
+
+#btn1 {
+  background-color: #106bff;
+}
+
+#btn2 {
+  background-color: #fe8700;
+}
+
+#btn3 {
+  background-color: #4caf4f;
+}
+
+a {
+  text-decoration: none;
+}
+
 /*# sourceMappingURL=style.css.map */

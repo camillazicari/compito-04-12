@@ -5,3 +5,7 @@
 @use 'partials/colori';
 @use 'partials/bottoni';
 @use 'partials/animazioni';
+
+a {
+    text-decoration: none;
+}

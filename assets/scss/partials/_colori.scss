@@ -1,0 +1,34 @@
+$white: white;
+$black: black;
+$bgViola: #630fc4;
+$btnVerde: #4caf4f;
+$btnArancio: #fe8700;
+$btnBlu: #106bff;
+
+header {
+  background-color: $bgViola;
+  a {
+    color: $white;
+  }
+}
+
+.hero {
+    p {
+        color: $white;
+    }
+    button {
+        color: $white;
+    }
+}
+
+#btn1 {
+    background-color: $btnBlu;
+}
+
+#btn2 {
+    background-color: $btnArancio;
+}
+
+#btn3 {
+    background-color: $btnVerde;
+}
