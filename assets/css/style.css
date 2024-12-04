@@ -7,6 +7,19 @@ html, body {
   padding: 0;
 }
 
+.hero {
+  height: 50vh;
+}
+.hero img {
+  top: 27%;
+  left: 70%;
+  width: 28% !important;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
 header {
   background-color: #630fc4;
 }
